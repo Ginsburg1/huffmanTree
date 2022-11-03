@@ -1,7 +1,6 @@
 
 
 Benjamin Ginsburg
-I worked on the porject alone
 
 All .c and .h files are included
 LinkedList class works
