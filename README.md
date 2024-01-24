@@ -1,9 +1,11 @@
-# huffmanTree
+# Huffman Compression and Decompression Program
 
-Benjamin Ginsburg
+## Compilation and Running
 
-All .c and .h files are included
-LinkedList class works
-The Frequences are counted correctly
-The huffman tree is built
-Encoding and Decoding works properly
+This C program is designed to compile using `gcc` (GNU C Compiler) on the Linux operating system. Ensure that the compilation is done with all warnings turned on using the `-Wall` flag. 
+
+### Running the Program
+
+To compress (encode) a file, use the command:
+```bash
+hcompress -e filename
