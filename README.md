@@ -9,3 +9,9 @@ This C program is designed to compile using `gcc` (GNU C Compiler) on the Linux 
 To compress (encode) a file, use the command:
 ```bash
 hcompress -e filename
+```
+
+To decompress (decode) a file, use the command:
+```bash
+hcompress -d filename.huf
+```
